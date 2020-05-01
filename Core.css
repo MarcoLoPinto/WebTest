@@ -2,6 +2,7 @@
     /* border: 1px solid #8e846b; */
     background-color: #feeebd;
     color: #383838;
+    display: flex;
 }
 
 @keyframes bounce {
